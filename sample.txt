@@ -1,0 +1,3 @@
+Hello World
+This is file handling in Python.
+This line is added using append mode.
