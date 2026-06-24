@@ -12,12 +12,14 @@ Displays:
 
 ## Project Structure
 
-
+```text
 docker-py-app/
 ├── app.py
 ├── Dockerfile
-├── requirements.txt
-└── README.md
+├── image.png
+├── README.md
+└── requirements.txt
+```
 
 
 ## Build Docker Image
