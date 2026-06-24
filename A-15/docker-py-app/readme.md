@@ -13,7 +13,7 @@ Displays:
 ## Project Structure
 
 
-docker-python-app/
+docker-py-app/
 ├── app.py
 ├── Dockerfile
 ├── requirements.txt
